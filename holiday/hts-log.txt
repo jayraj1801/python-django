@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 10 Jan 2025 15:58:39 at https://html.themeholy.com/tourm/demo/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://html.themeholy.com/tourm/demo/ -O1 "D:\design\holiday" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:03:00	Error: 	"Not Found" (404) at link https://html.themeholy.com/tourm/demo/assets/css/2218.jpg (from https://html.themeholy.com/tourm/demo/assets/css/style.css)
+16:03:00	Error: 	"Not Found" (404) at link https://html.themeholy.com/tourm/demo/+256214203215 (from https://html.themeholy.com/tourm/demo/blog-details.html)
+16:03:00	Error: 	"Not Found" (404) at link https://html.themeholy.com/tourm/demo/shop-detailis.html (from https://html.themeholy.com/tourm/demo/cart.html)
+16:03:00	Error: 	"Not Found" (404) at link https://html.themeholy.com/tourm/demo/team-details.html (from https://html.themeholy.com/tourm/demo/tour-guider-details.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 22 seconds : 685 links scanned, 680 files written (79595129 bytes overall) [73215271 bytes received at 279447 bytes/sec], 10295927 bytes transferred using HTTP compression in 148 files, ratio 35%, 19.0 requests per connection
+(4 errors, 0 warnings, 0 messages)
